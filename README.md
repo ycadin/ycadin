@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yannick Cadin
+- 👋 Hi, I’m Yannick Cadin (Diablotin is my company name)
 - 👀 I’m interested in CNLs (Controlled Natural Languages)
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking for help on CNLs and UI Automation (especially simulating human interactions with GUI application interfaces)
